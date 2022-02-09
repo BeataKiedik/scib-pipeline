@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import scanpy as sc
-import scIB
+import scib as scIB
 import argparse
 import os
 import sys
