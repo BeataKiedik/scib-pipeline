@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import pandas as pd
-import scIB
+import scib as scIB
 import warnings
 warnings.filterwarnings('ignore')
 import argparse
